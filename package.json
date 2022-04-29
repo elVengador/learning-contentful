@@ -1,0 +1,10 @@
+{
+  "name": "learning-contentful",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "contentful": "^9.1.27",
+    "dotenv": "^16.0.0"
+  }
+}
